@@ -37,7 +37,7 @@ How to use this repository
 | S No. | Topic | Assignment                                                               | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------ | ----------- |
 | 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |             |
-| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  | https://khandareumesh.github.io/WebAssignment/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html](https://github.com/Khandareumesh/WebAssignment/blob/b69b6dd9a31b3656c2c32892078c21c72980498b/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html)            |
+| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  | https://khandareumesh.github.io/WebAssignment/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html          |
 | 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            | https://khandareumesh.github.io/WebAssignment/WebAssignment/3-CSS/303-CSS-COLOR-MARKER/CSS-303-01/index.html            |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 | https://khandareumesh.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-01/index.html            |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 | https://khandareumesh.github.io/WebAssignment/3-CSS/304-CSS-BOX-MODEL/CSS-304-02/index.html            |
